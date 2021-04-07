@@ -1,0 +1,239 @@
+@media only screen and (max-width: 1090px) {
+  .navbar div {
+    font-size: 0.7em;
+    width: 7%;
+    margin-left: 1%;
+  }
+  .s-s-sqares {
+    width: 23%;
+    height: 100px;
+    margin-bottom: 5%;
+  }
+  .s-s {
+    width: auto;
+    padding-left: 0%;
+  }
+  .s-s-m1d {
+    width: 40%;
+  }
+  .s-s-m1d img {
+    width: 60%;
+    height: 300px;
+  }
+  .s-s-m2d {
+    width: 60%;
+    font-size: 0.9em;
+    transform: translateX(-35%);
+  }
+  .s-s-m2d1 {
+    width: 150px;
+    font-size: 1.2em;
+    font-style: normal;
+  }
+  .s-s-m2dd {
+    margin-top: 25%;
+    margin-left: 2%;
+  }
+  .s-s-m2d1 {
+    transform: translateX(20px);
+  }
+  .p13 {
+    font-size: 0.9em;
+  }
+  .s-t-p div {
+    font-size: 0.9em;
+    padding: 20px 20px;
+  }
+  .f-s-md {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .f-s-md .f-s-d {
+    width: 32%;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(235, 235, 230);
+    border-radius: 2%;
+  }
+  .f-s-md1 .f-s-d {
+    width: 32%;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(235, 235, 230);
+    border-radius: 2%;
+  }
+  .s-fi-imgd .s-fi-img img {
+    width: 100%;
+    height: 300px;
+  }
+
+  .s-fi-imgd .s-fi-img {
+    height: 370px;
+    width: 32%;
+  }
+  .s-fi-imgd .s-fi-img i {
+    margin-left: 10%;
+  }
+  .s-six-main .s-si-md {
+    width: 40%;
+    padding-bottom: 5%;
+  }
+  .s-se {
+    padding-left: 30px;
+  }
+
+  .s-six-main {
+    transform: translateX(-10%);
+  }
+  .s-six-main .se-s-imgm img {
+    width: 120%;
+    margin-left: 4%;
+  }
+  .s-six-main .se-s-imgm {
+    width: 40%;
+    margin-left: 10%;
+    padding-bottom: 10px;
+  }
+  .s-six-main .se-s-heading {
+    width: 114%;
+    height: auto;
+    padding-bottom: 5px;
+  }
+  .f-s-circle {
+    transform: translateX(-40%);
+  }
+
+  .n-s-class {
+    width: 40%;
+  }
+  .n-s-class input {
+    width: 98%;
+  }
+  .n-s-class textarea {
+    width: 98%;
+  }
+  .n-s-mclas .n-s-classb {
+    width: 40%;
+  }
+  .f-s-md .f-s-d {
+    height: auto;
+    width: 30%;
+    font-size: 60%;
+  }
+  .f-s-circle{
+    
+  }
+}
+@media only screen and (max-width: 1220px) {
+  /* ////section////
+/////start 2nd section/// */
+  .f-s {
+    padding-left: 40px;
+    height: auto;
+    width: auto;
+  }
+  .s-s {
+    padding-left: 40px;
+    height: auto;
+  }
+
+  .s-s-md {
+    height: 530px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .s-s-m1d {
+    padding-top: 30px;
+    width: 60%;
+    height: 90%;
+  }
+  .s-s-m1d img {
+    width: 70%;
+    height: 90%;
+  }
+  .s-s-m2d {
+    /* width: 40%; */
+    transform: translateX(-20%);
+  }
+  .s-s-sqare div {
+    padding: 20px 30px;
+    margin-top: 80px;
+    margin-left: 5px;
+  }
+  /* //////third//// */
+  .s-t {
+    padding-left: 40px;
+    height: auto;
+  }
+  .s-t-p {
+    height: 740px;
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 30px;
+  }
+  /* /////4th///// */
+  .f-s {
+    padding-left: 30px;
+    height: auto;
+  }
+  .f-s-d {
+    font-family: "Roboto", sans-serif;
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    align-content: center;
+    margin-bottom: 20px;
+  }
+  .f-s-circle {
+    transform: translateX(-40px);
+  }
+  /* //////section5//// */
+  .fi-s {
+    margin-left: 30px;
+  }
+  .s-fi-img img {
+    width: 310px;
+  }
+  .s-fi-img {
+    width: 310px;
+    padding-left: 5px;
+  }
+  .s-fi-img i {
+    margin-left: 90px;
+  }
+  /* ///////////////////////////////////6th///////// */
+  .s-si {
+    margin-left: 30px;
+  }
+  .s-si-md {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2em;
+    padding-top: 20px;
+    padding-left: 10px;
+    height: 320px;
+    width: 430px;
+  }
+  .s-si-i {
+    transform: translatey(-40px);
+    margin-left: 20px;
+  }
+  /* //////////////////7th */
+  .se-s {
+    padding-left: 30px;
+  }
+  .se-s-imgm img {
+    width: 470px;
+  }
+  .se-s-heading {
+    width: 420px;
+  }
+  /* /////8th */
+  .n-s-classb {
+    width: 450px;
+  }
+  .n-s-mclas button {
+    margin-top: 50px;
+    padding: 10px 20px;
+  }
+}
